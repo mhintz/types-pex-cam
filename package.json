@@ -1,6 +1,6 @@
 {
   "name": "@types/pex-cam",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Types for pex-cam",
   "types": "index.d.ts",
   "author": "Mark Hintz",
