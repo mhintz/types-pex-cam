@@ -1,0 +1,12 @@
+{
+  "name": "@types/pex-cam",
+  "version": "1.0.0",
+  "description": "Types for pex-cam",
+  "types": "index.d.ts",
+  "author": "Mark Hintz",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/gl-matrix": "^2.4.0"
+  }
+}
