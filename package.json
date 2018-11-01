@@ -6,6 +6,9 @@
   "author": "Mark Hintz",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "format": "prettier --write index.d.ts"
+  },
   "devDependencies": {
     "@types/gl-matrix": "^2.4.0"
   }
