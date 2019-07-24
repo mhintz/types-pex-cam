@@ -10,6 +10,6 @@
     "format": "prettier --write index.d.ts"
   },
   "devDependencies": {
-    "@types/gl-matrix": "^2.4.0"
+    "@types/gl-matrix": "^2.4.5"
   }
 }
